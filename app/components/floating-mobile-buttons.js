@@ -1,1 +1,1 @@
-export { default } from 'ember-floating-mobile-buttons/components/floating-mobile-buttons';
+export { default } from '@systembug/ember-fab/components/floating-mobile-buttons';

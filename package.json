@@ -8,7 +8,7 @@
     "floating button",
     "mobile floating button"
   ],
-  "repository": "https://github.com/systembugtj/ember-floating-mobile-buttons",
+  "repository": "https://github.com/systembugtj/ember-fab",
   "license": "MIT",
   "author": "Yon Zubizarreta",
   "directories": {
