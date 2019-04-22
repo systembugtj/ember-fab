@@ -1,7 +1,7 @@
 {
   "name": "@systembug/ember-fab",
   "version": "0.2.2",
-  "description": "Stylish and easy to use Ember floating buttons.",
+  "description": "[Forked] Stylish and easy to use Ember floating buttons.",
   "keywords": [
     "ember-addon",
     "button",
