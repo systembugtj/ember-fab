@@ -1,8 +1,9 @@
-my-addon
+@systembug/ember-fab
 ==============================================================================
 
-[Short description of the addon.]
+A fork from https://github.com/yontxu/ember-floating-mobile-buttons.
 
+Bump to latest Emberjs.
 
 Compatibility
 ------------------------------------------------------------------------------
@@ -15,7 +16,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install my-addon
+ember install @systembug/ember-fab
 ```
 
 
